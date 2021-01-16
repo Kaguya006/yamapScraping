@@ -1,4 +1,4 @@
-# Yamapscraping
+# yamapScraping
 
 ## 詳細
 yamap(登山者向けサイト)に対してスクレイピングを行う
