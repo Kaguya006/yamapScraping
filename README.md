@@ -15,7 +15,7 @@ yamap(登山者向けサイト)に対してスクレイピングを行う
 ## Description
 You can scraping the web-site(yamap) which is designed for hikers or climbers.
 
-This scraping tool can quickly find a 'yamap-activity-diary'　that contains specific words.
+This scraping tool can quickly find a 'yamap-activity-diary' that contains specific words.
 
 ## How to Execute
 `node yamap.js mountain-name keyword1 keyword2 ... .. .`
